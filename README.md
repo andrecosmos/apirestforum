@@ -145,9 +145,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-- **Autor**: Seu Nome
-- **Email**: seu.email@example.com
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- **Autor**: Andre Cosmos
+- **Email**: andrecosmos.1992@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/andre-cosmos-b95480a1/
 
 ---
 
